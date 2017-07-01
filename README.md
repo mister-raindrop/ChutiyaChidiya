@@ -16,6 +16,9 @@ All image/sprite assets are from [Open Game Art](http://opengameart.com), specif
 
 All sound assets are from [Free Sound](http://freesound.org).
 
+Also, the logo is from [Flaming Text](http://flamingtext.com), because my art and design
+skills are really top-notch.
+
 If you need a tutorial for Flappy Bird, [LessMilk](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 has a great three-part series on starting out with Phaser by creating a Flappy Bird clone.
 The author also wrote the 'Discover Phaser' ebook.
