@@ -1,6 +1,9 @@
 # Chutiya Chidiya
 ### A shitty Flappy Bird clone.
 
+
+You can play it live [HERE](http://fatpixels.me/games/ChutiyaChidiya/chutiyachidiya.html) on my blog.
+
 I had nothing to do while downloading Tekken 7 for PC, and a bunch of other
 games during Steam Sale this year, 2017. So, to fill the void, I thought I'd
 try making a small game in Phaser, which has been on my list of JS game
